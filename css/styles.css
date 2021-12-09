@@ -79,6 +79,11 @@ padding: 50px 0 20px;
   line-height: 2;
 }
 
+#profile-pic {
+  width: 10%;
+  border-radius: 100%;
+}
+
 .water-image {
   width: 25%;
   float: left;
